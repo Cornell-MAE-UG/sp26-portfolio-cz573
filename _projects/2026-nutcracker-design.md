@@ -3,7 +3,7 @@ layout: project
 title: Nutcracker Design
 description: Additional 2 Problem from Assignment 4 
 technologies: [None]
-image: /nutcracker.png
+image: /assets/images/nutcracker.png
 ---
 1. Find (The problem statement and objective)
     Problem statement: Design a simple lever nut cracker optimized to crack a  macadamia nut.
