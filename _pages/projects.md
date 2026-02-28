@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Cindy Zou - Portfolio
 permalink: /projects/
 ---
 
