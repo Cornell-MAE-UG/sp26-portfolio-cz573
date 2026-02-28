@@ -18,6 +18,7 @@ image: /assets/images/nutcracker.png
 
 4. Diagram of nut cracker design
     This diagram is the image linked.
+    ![Photo of work]({{ "/assets/images/nutcracker.png" | relative_url }}){: .inline-image-l}
 
 5. Discussion on usability of design
     The design has 1" of space between the pin support and where the macadamia nut contacts the inside of the simple lever; it also has 7" of space between the pin support and where the applied force is most likely. This makes for a realistic nut cracker design (the lever is not too big or small).
