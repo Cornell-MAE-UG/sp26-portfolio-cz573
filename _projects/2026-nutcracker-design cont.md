@@ -16,7 +16,7 @@ image: /assets/images/Nutcracker2.jpg
 
 4. Diagram of nut cracker design
     This diagram is the image linked.
-    ![Photo of work]({{ "/assets/images/Nutcracker2.png" | relative_url }}){: .inline-image-l}
+    ![Photo of work]({{ "/assets/images/Nutcracker2.jpg" | relative_url }}){: .inline-image-l}
 
 5. Reflection
     The actuator I chose is relatively strong; as such, there will be some deflection. However, the design of the aluminum I beam that I chose is also strong, making the deflection relatively small, less than 2% of the length.
